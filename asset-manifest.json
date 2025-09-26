@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/N-tejavathi/reactlab.git/static/css/main.39e50cae.css",
-    "main.js": "/N-tejavathi/reactlab.git/static/js/main.f1a0f1d4.js",
-    "static/js/453.e5e9cf7a.chunk.js": "/N-tejavathi/reactlab.git/static/js/453.e5e9cf7a.chunk.js",
-    "index.html": "/N-tejavathi/reactlab.git/index.html",
-    "main.39e50cae.css.map": "/N-tejavathi/reactlab.git/static/css/main.39e50cae.css.map",
-    "main.f1a0f1d4.js.map": "/N-tejavathi/reactlab.git/static/js/main.f1a0f1d4.js.map",
-    "453.e5e9cf7a.chunk.js.map": "/N-tejavathi/reactlab.git/static/js/453.e5e9cf7a.chunk.js.map"
+    "main.css": "/N-tejavathi/reactlab/static/css/main.39e50cae.css",
+    "main.js": "/N-tejavathi/reactlab/static/js/main.9df0681f.js",
+    "static/js/453.e5e9cf7a.chunk.js": "/N-tejavathi/reactlab/static/js/453.e5e9cf7a.chunk.js",
+    "index.html": "/N-tejavathi/reactlab/index.html",
+    "main.39e50cae.css.map": "/N-tejavathi/reactlab/static/css/main.39e50cae.css.map",
+    "main.9df0681f.js.map": "/N-tejavathi/reactlab/static/js/main.9df0681f.js.map",
+    "453.e5e9cf7a.chunk.js.map": "/N-tejavathi/reactlab/static/js/453.e5e9cf7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39e50cae.css",
-    "static/js/main.f1a0f1d4.js"
+    "static/js/main.9df0681f.js"
   ]
 }
